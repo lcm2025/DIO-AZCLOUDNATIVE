@@ -8,7 +8,6 @@
 ---
 
 ## 📁 Estrutura do Projeto
-
 ```bash
 📦 DIO-AZCLOUDNATIVE/
 ├── main.py               # Script principal em Python
@@ -16,10 +15,14 @@
 ├── infos.txt             # Informações auxiliares (ignorado pelo Git)
 ├── .env                  # Variáveis de ambiente (ignorado pelo Git)
 └── README.md             # Este arquivo
-
+```
 🚀 Primeiros Passos
-<h3 align="center">☁️ Configuração do Ambiente no Azure</h3> <p align="center"> Abaixo estão os passos iniciais para configurar os recursos no <strong>Microsoft Azure</strong> e rodar o projeto localmente. </p>
+<h3 align="center">☁️ Configuração do Ambiente no Azure</h3>
+<p align="center">
+Abaixo estão os passos iniciais para configurar os recursos no <strong>Microsoft Azure</strong> e rodar o projeto localmente.
+</p>
 
+```bash
 🔧 Etapas no Portal Azure
 ✅ Criação do Resource Group (LAB001) no 🌐 Portal Azure
 ✅ Criação do Azure SQL Server e Banco de Dados SQL
@@ -56,4 +59,3 @@ Use sempre o .gitignore para protegê-los.
 👨‍💻 Autor
 Feito com 💙 por Luciano de Castro
 🔗 LinkedIn: (https://www.linkedin.com/in/luciano-de-castro-b216803a/)
-
