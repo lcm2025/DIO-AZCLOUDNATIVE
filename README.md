@@ -13,5 +13,5 @@
 📦 DIO-AZCLOUDNATIVE/
 ├── main.py
 ├── requirements.txt
-├── .env.example
+├── infos.txt
 └── README.md
