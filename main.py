@@ -4,15 +4,15 @@ import pymysql
 import uuid
 
 #Configurações do Azure Storage
-CONNECTION_STRING = "DefaultEndpointsProtocol=https;AccountName=stadevlab001neweastus001;AccountKey=Cuorp6ekbzXSbV/YxL26WfI5hkDvQaBz2A++AQh9PNZFK4LKxEPTAGO9eTCPzJn6YsSeqVOV6g7q+AStcmIfXg==;EndpointSuffix=core.windows.net"
-CONTAINER_NAME = "fotos"
-ACCOUNT_NAME = "stadevlab001neweastus001"
+CONNECTION_STRING = "Sua string de conexão"
+CONTAINER_NAME = "Nome do container criado no Azure"
+ACCOUNT_NAME = "Nome do storage criado"
 
 #Configurações do Azure SQL Server
-SQL_SERVER = "dbsrvlab001eastus.database.windows.net"
-SQL_DATABASE = "sqllab001dbdeveastus"
-SQL_USERNAME = "adminlcm2025"
-SQL_PASSWORD = "ad2025@L"
+SQL_SERVER = "nome do servidor do banco criado no Azure"
+SQL_DATABASE = "Nome do database criado no Azure"
+SQL_USERNAME = "Nome do usuário (criado durante a criação do DB)"
+SQL_PASSWORD = "senha do usuário criado"
 
 #Título do App
 st.title("Cadastro de Produto - E-Commerce na Cloud")
